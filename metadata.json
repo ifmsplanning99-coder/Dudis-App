@@ -1,0 +1,6 @@
+{
+  "name": "IFMS QC Inspection",
+  "description": "Field Quality Control Inspection app for property projects: location identification, defect findings & photos, duration calculation, 840-minute capacity limit, Excel export, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
